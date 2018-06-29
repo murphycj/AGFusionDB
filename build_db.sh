@@ -23,6 +23,7 @@ agfusion build --dir . --species homo_sapiens --release 88 --pfam 042117_pfamA.t
 agfusion build --dir . --species homo_sapiens --release 89 --pfam 042117_pfamA.txt
 agfusion build --dir . --species homo_sapiens --release 90 --pfam 042117_pfamA.txt
 agfusion build --dir . --species homo_sapiens --release 91 --pfam 042117_pfamA.txt
+agfusion build --dir . --species homo_sapiens --release 92 --pfam 042117_pfamA.txt
 
 agfusion build --dir . --species mus_musculus --release 67 --pfam 042117_pfamA.txt
 agfusion build --dir . --species mus_musculus --release 68 --pfam 042117_pfamA.txt
@@ -45,3 +46,8 @@ agfusion build --dir . --species mus_musculus --release 84 --pfam 042117_pfamA.t
 agfusion build --dir . --species mus_musculus --release 85 --pfam 042117_pfamA.txt
 agfusion build --dir . --species mus_musculus --release 86 --pfam 042117_pfamA.txt
 agfusion build --dir . --species mus_musculus --release 87 --pfam 042117_pfamA.txt
+agfusion build --dir . --species mus_musculus --release 88 --pfam 042117_pfamA.txt
+agfusion build --dir . --species mus_musculus --release 89 --pfam 042117_pfamA.txt
+agfusion build --dir . --species mus_musculus --release 90 --pfam 042117_pfamA.txt
+agfusion build --dir . --species mus_musculus --release 91 --pfam 042117_pfamA.txt
+agfusion build --dir . --species mus_musculus --release 92 --pfam 042117_pfamA.txt
