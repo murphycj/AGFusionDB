@@ -1,5 +1,11 @@
 #curl ftp://ftp.ebi.ac.uk/pub/builds/Pfam/current_release/build_files//pfamA.txt.gz > 042117_pfamA.txt.gz
 
+agfusion build --dir . --species homo_sapiens --release 69 --pfam 042117_pfamA.txt
+agfusion build --dir . --species homo_sapiens --release 70 --pfam 042117_pfamA.txt
+agfusion build --dir . --species homo_sapiens --release 71 --pfam 042117_pfamA.txt
+agfusion build --dir . --species homo_sapiens --release 72 --pfam 042117_pfamA.txt
+agfusion build --dir . --species homo_sapiens --release 73 --pfam 042117_pfamA.txt
+agfusion build --dir . --species homo_sapiens --release 74 --pfam 042117_pfamA.txt
 agfusion build --dir . --species homo_sapiens --release 75 --pfam 042117_pfamA.txt
 agfusion build --dir . --species homo_sapiens --release 76 --pfam 042117_pfamA.txt
 agfusion build --dir . --species homo_sapiens --release 77 --pfam 042117_pfamA.txt
@@ -13,6 +19,10 @@ agfusion build --dir . --species homo_sapiens --release 84 --pfam 042117_pfamA.t
 agfusion build --dir . --species homo_sapiens --release 85 --pfam 042117_pfamA.txt
 agfusion build --dir . --species homo_sapiens --release 86 --pfam 042117_pfamA.txt
 agfusion build --dir . --species homo_sapiens --release 87 --pfam 042117_pfamA.txt
+agfusion build --dir . --species homo_sapiens --release 88 --pfam 042117_pfamA.txt
+agfusion build --dir . --species homo_sapiens --release 89 --pfam 042117_pfamA.txt
+agfusion build --dir . --species homo_sapiens --release 90 --pfam 042117_pfamA.txt
+agfusion build --dir . --species homo_sapiens --release 91 --pfam 042117_pfamA.txt
 
 agfusion build --dir . --species mus_musculus --release 67 --pfam 042117_pfamA.txt
 agfusion build --dir . --species mus_musculus --release 68 --pfam 042117_pfamA.txt
